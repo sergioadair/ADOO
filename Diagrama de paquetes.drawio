@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T02:36:45.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="7oRO2c7Qkgcb_7HtjDFi" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T03:04:01.732Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="86UJPGxc4O2DW3QYD2Hz" version="22.1.4" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="880" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
             <mxPoint x="730" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3F0mdXIfwvMZStJcJfTv-13" value="Consultar estado&lt;br&gt;del proyecto" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=50;tabHeight=17;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+        <mxCell id="3F0mdXIfwvMZStJcJfTv-13" value="Consultar estado&lt;br&gt;de proyecto" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=50;tabHeight=17;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="571" y="520" width="112" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3F0mdXIfwvMZStJcJfTv-14" value="Registrar informe" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=50;tabHeight=17;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
@@ -55,10 +55,10 @@
         <mxCell id="3F0mdXIfwvMZStJcJfTv-16" value="Establecer estado&lt;br&gt;del proyecto" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=50;tabHeight=17;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="420" y="650" width="112" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="3F0mdXIfwvMZStJcJfTv-17" value="Consultar proyecto&lt;br&gt;registrado" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=50;tabHeight=17;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+        <mxCell id="3F0mdXIfwvMZStJcJfTv-17" value="Consultar proyecto" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=50;tabHeight=17;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="571" y="650" width="112" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="3F0mdXIfwvMZStJcJfTv-18" value="Consultar informe&lt;br&gt;de evento" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=50;tabHeight=17;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+        <mxCell id="3F0mdXIfwvMZStJcJfTv-18" value="Consultar informe" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=50;tabHeight=17;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="721" y="650" width="112" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3F0mdXIfwvMZStJcJfTv-19" value="Establecer estado&lt;br&gt;del evento" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=50;tabHeight=17;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
